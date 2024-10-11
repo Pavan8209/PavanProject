@@ -19,7 +19,7 @@ object CricketMatch extends App{
     } else if (csk.score > mi.score) {
       println(s"${csk.name} wins!")
     } else {
-      println("Match drawn!")
+      println("ESCN namde!")
     }
 }
 
